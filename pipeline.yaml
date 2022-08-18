@@ -24,7 +24,7 @@ Parameters:
 
   GitHubRepo:
     Type: String
-    Default: https://github.com/tamluongkms/github-codepipeline.git
+    Default: tamluongkms/github-codepipeline
     AllowedPattern: "[A-Za-z0-9-]+"
 
   GitHubBranch:
