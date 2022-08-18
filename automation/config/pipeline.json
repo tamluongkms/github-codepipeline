@@ -1,0 +1,9 @@
+{
+  "Parameters":  {
+                     "GitHubOwner":  "tamluongkms",
+                     "GitHubRepo":  "github-codepipeline",
+                     "GitHubBranch":  "master",
+                     "ApplicationStackName":  "github-codepipeline-app",
+                     "GitHubOAuthToken":  "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"
+                 }
+}
